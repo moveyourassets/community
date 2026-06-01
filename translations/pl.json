@@ -1,0 +1,79 @@
+{
+  "_language": "Polski",
+  "_code": "pl",
+  "tabs": {
+    "dashboard": "Pulpit",
+    "tracking": "Trening",
+    "history": "Historia",
+    "stats": "Statystyki",
+    "settings": "Ustawienia"
+  },
+  "dashboard": {
+    "weather": "Pogoda",
+    "next_4h": "Kolejne 4h",
+    "this_week": "Ten tydzień",
+    "distance": "Dystans",
+    "workouts": "Liczba treningów",
+    "time": "Czas",
+    "last_activity": "Ostatnia aktywność",
+    "no_activities": "Brak aktywności",
+    "quick_start": "Szybki start",
+    "day_streak": "dni z rzędu"
+  },
+  "tracking": {
+    "distance": "Dystans",
+    "duration": "Czas",
+    "current_pace": "Aktualny",
+    "avg_pace": "Śr.",
+    "start": "Start",
+    "pause": "Pauza",
+    "resume": "Wznów",
+    "stop": "Stop",
+    "weather": "Pogoda"
+  },
+  "history": {
+    "title": "Historia",
+    "empty": "Brak aktywności"
+  },
+  "stats": {
+    "title": "Statystyki"
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "workout": "Trening",
+    "auto_pause": "Autopauza",
+    "keep_screen_on": "Podtrzymanie ekranu",
+    "scope": "Zakres",
+    "scope_tracking": "Tylko aktywny trening",
+    "scope_app": "Cała aplikacja",
+    "audio": "Dźwięk",
+    "voice_announcements": "Komunikaty głosowe",
+    "distance_updates": "Aktualizacje dystansu",
+    "time_updates": "Aktualizacje czasu",
+    "preferences": "Preferencje",
+    "language_units": "Język i jednostki",
+    "data": "Dane",
+    "data_backup": "Dane i kopia zapasowa",
+    "about": "O aplikacji",
+    "version": "Wersja",
+    "send_feedback": "Wyślij opinię",
+    "privacy_policy": "Polityka prywatności"
+  },
+  "sports": {
+    "running": "Bieganie",
+    "walking": "Chód",
+    "cycling": "Rower"
+  },
+  "weather": {
+    "clear": "Słonecznie",
+    "partly_cloudy": "Częściowe zachmurzenie",
+    "cloudy": "Pochmurno",
+    "fog": "Mgła",
+    "drizzle": "Mżawka",
+    "rain": "Deszcz",
+    "heavy_rain": "Ulewa",
+    "snow": "Śnieg",
+    "thunderstorm": "Burza",
+    "loading": "Ładowanie..."
+  }
+}

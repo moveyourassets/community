@@ -1,0 +1,79 @@
+{
+  "_language": "English",
+  "_code": "en",
+  "tabs": {
+    "dashboard": "Dashboard",
+    "tracking": "Tracking",
+    "history": "History",
+    "stats": "Statistics",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "weather": "Weather",
+    "next_4h": "Next 4h",
+    "this_week": "This week",
+    "distance": "Distance",
+    "workouts": "Workouts",
+    "time": "Time",
+    "last_activity": "Last activity",
+    "no_activities": "No activities",
+    "quick_start": "Quick Start",
+    "day_streak": "day streak"
+  },
+  "tracking": {
+    "distance": "Distance",
+    "duration": "Duration",
+    "current_pace": "Current",
+    "avg_pace": "Avg",
+    "start": "Start",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "weather": "Weather forecast"
+  },
+  "history": {
+    "title": "History",
+    "empty": "No activities yet"
+  },
+  "stats": {
+    "title": "Statistics"
+  },
+  "settings": {
+    "title": "Settings",
+    "workout": "Workout",
+    "auto_pause": "Auto-pause",
+    "keep_screen_on": "Keep screen on",
+    "scope": "Scope",
+    "scope_tracking": "Active workout only",
+    "scope_app": "Entire app",
+    "audio": "Audio",
+    "voice_announcements": "Voice announcements",
+    "distance_updates": "Distance updates",
+    "time_updates": "Time updates",
+    "preferences": "Preferences",
+    "language_units": "Language & Units",
+    "data": "Data",
+    "data_backup": "Data & Backup",
+    "about": "About",
+    "version": "Version",
+    "send_feedback": "Send feedback",
+    "privacy_policy": "Privacy Policy"
+  },
+  "sports": {
+    "running": "Running",
+    "walking": "Walking",
+    "cycling": "Cycling"
+  },
+  "weather": {
+    "clear": "Clear",
+    "partly_cloudy": "Partly cloudy",
+    "cloudy": "Cloudy",
+    "fog": "Fog",
+    "drizzle": "Drizzle",
+    "rain": "Rain",
+    "heavy_rain": "Heavy rain",
+    "snow": "Snow",
+    "thunderstorm": "Thunderstorm",
+    "loading": "Loading..."
+  }
+}
